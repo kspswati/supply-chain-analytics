@@ -1,4 +1,4 @@
-# 📦 Supply Chain Analytics – Beauty & Fashion Products
+# 📦 Supply Chain Analytics – Beauty & Haircare Products
 
 This project analyzes the supply chain performance of a beauty and fashion startup, focusing on skincare, haircare, and cosmetics. The goal is to uncover patterns in revenue, inventory efficiency, cost trade-offs, and quality control using data-driven techniques.
 
